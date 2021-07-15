@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on stuff.
 - 📫 How to reach me? I don’t know.
 
-JosephBrotEDV/JosephBrotEDV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JosephBrotEDV/JosephBrotEDV is a ✨ special ✨ repository because its `README.md` appears on my GitHub profile.
